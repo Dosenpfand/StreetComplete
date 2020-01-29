@@ -57,6 +57,7 @@ import de.westnordost.streetcomplete.quests.recycling_glass.DetermineRecyclingGl
 import de.westnordost.streetcomplete.quests.recycling_material.AddRecyclingContainerMaterials;
 import de.westnordost.streetcomplete.quests.religion.AddReligionToPlaceOfWorship;
 import de.westnordost.streetcomplete.quests.religion.AddReligionToWaysideShrine;
+import de.westnordost.streetcomplete.quests.religion.AddReligionToCemetery;
 import de.westnordost.streetcomplete.quests.localized_name.data.RoadNameSuggestionsDao;
 import de.westnordost.streetcomplete.quests.segregated.AddCyclewaySegregation;
 import de.westnordost.streetcomplete.quests.self_service.AddSelfServiceLaundry;
@@ -168,6 +169,7 @@ public class QuestModule
 				new AddTactilePavingBusStop(o),
 				new AddBridgeStructure(o),
 				new AddReligionToWaysideShrine(o),
+				new AddReligionToCemetery(o),
 				new AddCyclewaySegregation(o),
 				new MarkCompletedBuildingConstruction(o),
 				new AddGeneralFee(o),
