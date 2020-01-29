@@ -114,7 +114,8 @@ class OsmQuestDownloader @Inject constructor(
             val distance = geometry.polylines.sumByDouble { SphericalEarthMath.distance(it) }
             if (distance > MAX_GEOMETRY_LENGTH_IN_METERS) {
                 Log.d(TAG, "$questTypeName: Not adding a quest at ${pos.toLogString()} because the geometry is too long")
-                return false
+                // TODO: temp
+                // return false
             }
         }
 
