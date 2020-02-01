@@ -9,7 +9,7 @@ class AddChairliftBubble(o: OverpassMapDataAndGeometryDao) : SimpleOverpassQuest
 
     override val tagFilters = "ways with aerialway=chair_lift and !aerialway:bubble"
     override val commitMessage = "Add wether chair lift carriages have bubbles."
-    override val icon = R.drawable.ic_quest_wheelchair_outside
+    override val icon = R.drawable.ic_quest_aerialway
 
     override fun getTitle(tags: Map<String, String>): Int {
         val hasName = tags.containsKey("name")
