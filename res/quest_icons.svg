@@ -11101,4 +11101,126 @@
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8.00132465;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
     </g>
   </g>
+  <g
+     id="surveillance"
+     inkscape:label="#g2828">
+    <g
+       inkscape:label="#g8992-6-57-4-4"
+       inkscape:export-ydpi="95.983444"
+       inkscape:export-xdpi="95.983444"
+       id="g111111"
+       transform="matrix(0.86588196,0.49991722,-0.49991718,0.86588203,1182.5149,1472.554)">
+      <path
+         style="fill:#9bbe55;fill-opacity:1;stroke-width:0.2"
+         id="path4485-6-6-3-4-8-58-5-6"
+         d="m -303.99992,63.999782 c 0,35.346 -28.654,63.999998 -64.00002,63.999998 -35.346,0 -64,-28.653998 -64,-63.999998 0,-35.346 28.654,-64 64,-64 35.34602,0 64.00002,28.654 64.00002,64"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(1.5555556,0,0,1.5555556,782.09803,1294.223)"
+       id="g935">
+      <circle
+         style="fill:#e0e0d1"
+         class="st0"
+         cx="32"
+         cy="32"
+         r="32"
+         id="circle4-92" />
+      <g
+         id="g40-0">
+        <g
+           id="g8">
+          <circle
+             style="fill:#76c2af"
+             class="st1"
+             cx="32"
+             cy="32"
+             r="15.4"
+             id="circle6" />
+        </g>
+        <circle
+           style="fill:#4f5d73"
+           class="st2"
+           cx="32"
+           cy="32"
+           r="8.5"
+           id="circle10" />
+        <g
+           style="opacity:0.2"
+           class="st3"
+           id="g14-2">
+          <path
+             style="fill:#ffffff"
+             inkscape:connector-curvature="0"
+             class="st4"
+             d="M 43.1,17.9 C 37,16.6 29.1,17.1 22.8,18.8 22.3,20.3 22,21.9 22,23.6 22,32.1 28.9,39 37.4,39 c 5.5,0 10.2,-2.9 13,-7.1 -1,-5.9 -2.6,-13 -7.3,-14 z"
+             id="path12" />
+        </g>
+        <circle
+           style="fill:#ffffff"
+           class="st4"
+           cx="36"
+           cy="26"
+           r="2"
+           id="circle16" />
+        <path
+           style="opacity:0.2;fill:#231f20"
+           inkscape:connector-curvature="0"
+           class="st5"
+           d="m 32,20.5 c 6.7,0 12.1,5.4 12.1,12.1 0,6.7 -5.4,12.1 -12.1,12.1 -6.7,0 -12.1,-5.4 -12.1,-12.1 0,-6.7 5.4,-12.1 12.1,-12.1 m 0,-3.3 c -8.5,0 -15.4,6.9 -15.4,15.4 0,8.5 6.9,15.4 15.4,15.4 8.5,0 15.4,-6.9 15.4,-15.4 0,-8.5 -6.9,-15.4 -15.4,-15.4 z"
+           id="path18-3" />
+        <g
+           id="g22">
+          <path
+             style="fill:#4f5d73"
+             inkscape:connector-curvature="0"
+             class="st2"
+             d="m 32,19 c 7.2,0 13,5.8 13,13 0,7.2 -5.8,13 -13,13 -7.2,0 -13,-5.8 -13,-13 0,-7.2 5.8,-13 13,-13 m 0,-3 c -8.8,0 -16,7.2 -16,16 0,8.8 7.2,16 16,16 8.8,0 16,-7.2 16,-16 0,-8.8 -7.2,-16 -16,-16 z"
+             id="path20" />
+        </g>
+        <path
+           style="opacity:0.2;fill:#231f20"
+           inkscape:connector-curvature="0"
+           class="st5"
+           d="m 32,17.4 c 8.3,0 15,6.7 15,15 0,8.3 -6.7,15 -15,15 -8.3,0 -15,-6.7 -15,-15 0,-8.2 6.7,-15 15,-15 m 0,-3.2 c -10.1,0 -18.2,8.2 -18.2,18.2 0,10.1 8.2,18.2 18.2,18.2 10,0 18.2,-8.2 18.2,-18.2 0,-10 -8.1,-18.2 -18.2,-18.2 z"
+           id="path24" />
+        <g
+           id="g28-75">
+          <path
+             style="fill:#4f5d73"
+             inkscape:connector-curvature="0"
+             class="st2"
+             d="m 32,16 c 8.8,0 16,7.2 16,16 0,8.8 -7.2,16 -16,16 -8.8,0 -16,-7.2 -16,-16 0,-8.8 7.2,-16 16,-16 m 0,-3 C 21.5,13 13,21.5 13,32 13,42.5 21.5,51 32,51 42.5,51 51,42.5 51,32 51,21.5 42.5,13 32,13 Z"
+             id="path26-9" />
+        </g>
+        <path
+           style="opacity:0.2;fill:#231f20"
+           inkscape:connector-curvature="0"
+           class="st5"
+           d="m 32,14.5 c 9.9,0 17.9,8 17.9,17.9 0,9.9 -8,17.9 -17.9,17.9 -9.9,0 -17.9,-8 -17.9,-17.9 0,-9.8 8,-17.9 17.9,-17.9 m 0,-3.1 c -11.6,0 -21.1,9.4 -21.1,21.1 0,11.6 9.4,21.1 21.1,21.1 11.7,0 21.1,-9.4 21.1,-21.1 C 53.1,20.8 43.6,11.4 32,11.4 Z"
+           id="path30" />
+        <g
+           style="opacity:0.2"
+           class="st3"
+           id="g34">
+          <circle
+             style="fill:#231f20"
+             class="st6"
+             cx="32"
+             cy="34"
+             r="22"
+             id="circle32" />
+        </g>
+        <g
+           id="g38">
+          <path
+             style="fill:#4f5d73"
+             inkscape:connector-curvature="0"
+             class="st2"
+             d="M 32,13 C 42.5,13 51,21.5 51,32 51,42.5 42.5,51 32,51 21.5,51 13,42.5 13,32 13,21.5 21.5,13 32,13 m 0,-3 C 19.8,10 10,19.8 10,32 10,44.2 19.8,54 32,54 44.2,54 54,44.2 54,32 54,19.8 44.2,10 32,10 Z"
+             id="path36" />
+        </g>
+      </g>
+    </g>
+  </g>
 </svg>

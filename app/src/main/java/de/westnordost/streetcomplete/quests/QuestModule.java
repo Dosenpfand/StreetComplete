@@ -64,6 +64,7 @@ import de.westnordost.streetcomplete.quests.sidewalk.AddSidewalk;
 import de.westnordost.streetcomplete.quests.surface.AddCyclewayPartSurface;
 import de.westnordost.streetcomplete.quests.surface.AddFootwayPartSurface;
 import de.westnordost.streetcomplete.quests.surface.AddPathSurface;
+import de.westnordost.streetcomplete.quests.surveillance_camera_type.AddSurveillanceCameraType;
 import de.westnordost.streetcomplete.quests.tactile_paving.AddTactilePavingBusStop;
 import de.westnordost.streetcomplete.quests.tactile_paving.AddTactilePavingCrosswalk;
 import de.westnordost.streetcomplete.quests.toilet_availability.AddToiletAvailability;
@@ -173,6 +174,7 @@ public class QuestModule
 				new AddGeneralFee(o),
 				new AddSelfServiceLaundry(o),
 				new AddHandrail(o), // for accessibility of pedestrian routing
+				new AddSurveillanceCameraType(o),
 
 				// ↓ 8. defined in the wiki, but not really used by anyone yet. Just collected for
 				//      the sake of mapping it in case it makes sense later

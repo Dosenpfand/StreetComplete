@@ -54,6 +54,7 @@ building_icons.svg
     transportation              modified from Twemoji: U+1F68D
     university
     warehouse
+    surveillance                https://commons.wikimedia.org/wiki/File:Circle-icons-lens.svg
 
 building_levels_illustration.svg
 
